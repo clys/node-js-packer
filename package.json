@@ -1,6 +1,6 @@
 {
   "name": "packer-compress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli compress js to reduce size",
   "main": "index.js",
   "scripts": {
