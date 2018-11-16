@@ -1,0 +1,30 @@
+{
+  "name": "js-packer",
+  "version": "1.0.0",
+  "description": "Compress js to reduce size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/nightwish/node-js-packer"
+  },
+  "keywords": [
+    "packer",
+    "Compress"
+  ],
+  "author": "clys",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://gitee.com/nightwish/node-js-packer/issues"
+  },
+  "bin": {
+    "js-packer": "bin/index.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.2",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0"
+  }
+}
