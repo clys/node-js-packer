@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/nightwish/node-js-packer"
+    "url": "https://github.com/clys/node-js-packer/"
   },
   "keywords": [
     "packer",
@@ -17,7 +17,7 @@
   "author": "clys",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://gitee.com/nightwish/node-js-packer/issues"
+    "url": "https://github.com/clys/node-js-packer/issues"
   },
   "bin": {
     "packer-compress": "bin/index.js"
