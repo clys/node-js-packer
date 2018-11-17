@@ -1,4 +1,4 @@
-# js-packer
+# packer-compress
 
 This is a simple port of [/packer/](http://dean.edwards.name/packer/) by Dean Edwards to node.js.
 
@@ -6,14 +6,14 @@ This is a simple port of [/packer/](http://dean.edwards.name/packer/) by Dean Ed
 
 If you use [npm](https://github.com/isaacs/npm):
 
-    npm i js-packer
+    npm i packer-compress
 
 
 ## Usage
 
 
-    $ js-packer -h
-    Usage: js-packer [options] <InputFile ...> <OutputFile ...>
+    $ packer-compress -h
+    Usage: packer-compress [options] <InputFile ...> <OutputFile ...>
     
     Options:
       -V, --version       output the version number
