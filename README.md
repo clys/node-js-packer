@@ -4,8 +4,6 @@ This is a simple port of [/packer/](http://dean.edwards.name/packer/) by Dean Ed
 
 ## Installation
 
-If you use [npm](https://github.com/isaacs/npm):
-
     npm i packer-compress
 
 
